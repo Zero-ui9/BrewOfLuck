@@ -1,6 +1,5 @@
 package com.zero.brewofluck;
 
-import com.mojang.logging.LogUtils;
 import com.zero.brewofluck.items.ModItems;
 import com.zero.brewofluck.loot.GlobalLootModifiers;
 import com.zero.brewofluck.potions.ModPotions;
@@ -10,14 +9,13 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
-import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(BrewOfLuck.MODID)
 public class BrewOfLuck
 {
     public static final String MODID = "brew_of_luck";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    //private static final Logger LOGGER = LogUtils.getLogger();
 
     public BrewOfLuck(IEventBus modEventBus)
     {

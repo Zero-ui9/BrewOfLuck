@@ -12,8 +12,5 @@ public class ModClientEvents {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.CLOVER.get());
         }
-        if (event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
-
-        }
     }
 }
