@@ -1,0 +1,38 @@
+{
+  "item.brew_of_luck.clover": "Lucky Clover",
+
+  "item.minecraft.potion.effect.luck_potion_long": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.luck_potion_long": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.luck_potion_long": "Lingering Potion of Luck",
+  "item.minecraft.tipped_arrow.effect.luck_potion_long": "Arrow of Luck",
+
+  "item.minecraft.potion.effect.luck_potion_strong": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.luck_potion_strong": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.luck_potion_strong": "Lingering Potion of Luck",
+  "item.minecraft.tipped_arrow.effect.luck_potion_strong": "Arrow of Luck",
+
+  "item.minecraft.potion.effect.luck_potion_stronger": "Potion of Luck",
+  "item.minecraft.splash_potion.effect.luck_potion_stronger": "Splash Potion of Luck",
+  "item.minecraft.lingering_potion.effect.luck_potion_stronger": "Lingering Potion of Luck",
+  "item.minecraft.tipped_arrow.effect.luck_potion_stronger": "Arrow of Luck",
+
+  "item.minecraft.potion.effect.unluck_potion": "Potion of Unluck",
+  "item.minecraft.splash_potion.effect.unluck_potion": "Splash Potion of Unluck",
+  "item.minecraft.lingering_potion.effect.unluck_potion": "Lingering Potion of Unluck",
+  "item.minecraft.tipped_arrow.effect.unluck_potion": "Arrow of Unluck",
+
+  "item.minecraft.potion.effect.unluck_potion_long": "Potion of Unluck",
+  "item.minecraft.splash_potion.effect.unluck_potion_long": "Splash Potion of Unluck",
+  "item.minecraft.lingering_potion.effect.unluck_potion_long": "Lingering Potion of Unluck",
+  "item.minecraft.tipped_arrow.effect.unluck_potion_long": "Arrow of Unluck",
+
+  "item.minecraft.potion.effect.unluck_potion_strong": "Potion of Unluck",
+  "item.minecraft.splash_potion.effect.unluck_potion_strong": "Splash Potion of Unluck",
+  "item.minecraft.lingering_potion.effect.unluck_potion_strong": "Lingering Potion of Unluck",
+  "item.minecraft.tipped_arrow.effect.unluck_potion_strong": "Arrow of Unluck",
+
+  "item.minecraft.potion.effect.unluck_potion_stronger": "Potion of Unluck",
+  "item.minecraft.splash_potion.effect.unluck_potion_stronger": "Splash Potion of Unluck",
+  "item.minecraft.lingering_potion.effect.unluck_potion_stronger": "Lingering Potion of Unluck",
+  "item.minecraft.tipped_arrow.effect.unluck_potion_stronger": "Arrow of Unluck"
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.zero.brewofluck.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ApplyBonusCountMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

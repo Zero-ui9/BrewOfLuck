@@ -1,0 +1,13 @@
+{
+  "type": "brew_of_luck:add_item",
+  "conditions": [
+    {
+      "chance": 0.005,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "block": "minecraft:tall_grass",
+      "condition": "minecraft:block_state_property"
+    }
+  ]
+}
